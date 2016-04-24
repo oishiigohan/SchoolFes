@@ -15,8 +15,17 @@ body {
     font-style: normal;
 }
 
+.button1{
+    margin-right: 5px;
+    margin-top: 50px;
+}
+
 h1{
     margin-top: 80px;
+}
+
+h2{
+    margin-top: 50px;
 }
 
 .text {
@@ -98,4 +107,19 @@ a:hover{
     width: 100%;
     text-align: center;
 }
+}
+
+.title{
+    margin-bottom: 80px;
+}
+
+
+.ex{
+    width: 40%;
+    border: 1px dotted #000;
+    margin-bottom: 50px;
+}
+
+.button{
+    margin-bottom: 100px;
 }
